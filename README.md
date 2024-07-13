@@ -15,5 +15,4 @@ This repository contains a simple calculator implemented with HTML, CSS, and Jav
 To run this calculator locally, clone the repository and open `index.html` in your browser.
 
 ```bash
-git clone https://github.com/your_username/your_repository.git
-cd your_repository
+git clone https://github.com/ganeshmedichelimala/calculator.git
